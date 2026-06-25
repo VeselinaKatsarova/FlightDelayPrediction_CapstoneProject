@@ -1,5 +1,5 @@
 # FlightDelayPrediction_CapstoneProject
-1.To operate the file you would need to download the dataset
+1.To operate the file you would need to download the dataset located in the link in either one of our relfection Note's files
 
 2. After downloading both the dataset and the file install any needed packages that you may not have
 
