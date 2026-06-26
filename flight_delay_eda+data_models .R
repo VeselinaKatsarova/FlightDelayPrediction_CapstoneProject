@@ -1,3 +1,6 @@
+install.packages(c("data.table","dplyr", "ggplot2", "plotly", "DataExplorer", "corrplot", "naniar", "tidyr", "caret", "xgboost", "randomForest", "ada", "pROC"))
+
+
 library(data.table)
 library(dplyr)
 library(ggplot2)
